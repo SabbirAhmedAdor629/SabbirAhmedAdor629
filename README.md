@@ -1,18 +1,15 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kunal!](https://kunal-kushwaha.github.io) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Sabbir!](https://SabbirAhmedAdor629.github.io) 
 
-<a href="https://www.linkedin.com/in/kunal-kushwaha/">
+<a href="https://www.linkedin.com/in/sabbir-ahmed-613934194/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/kunalstwt">
+<a href="https://twitter.com/SabbirAhmedAdor">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:kunalkushwaha453@gmail.com">
+<a href="mailto:Sabbirgitrepository@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="http://dev.to/kunal">
+<a href="http://dev.to/Sabbirahmedador629">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
