@@ -1,6 +1,6 @@
 
 
-<h1 align="center">## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Sabbir!](https://github.com/SabbirAhmedAdor629) </h1>
+<h1 align="center">## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sabbir </h1>
 
 <a href="https://www.linkedin.com/in/sabbir-ahmed-613934194/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
