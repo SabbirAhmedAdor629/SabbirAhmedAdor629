@@ -2,21 +2,23 @@
 
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sabbir </h1>
 
-<a href="https://www.linkedin.com/in/sabbir-ahmed-613934194/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/SabbirAhmedAdor">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:SabbirGitRepository@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+- 🌱 I’m currently learning **Flask, Express and MongoDB**
 
-<a href="https://dev.to/sabbirahmedador629">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+- 📫 How to reach me **Sabbirahmedador35@gmail.com**
 
-<br />
+<h2> Profile Links </h2>
+
+<a href="[https://facebook.com/aaman007.r](https://www.facebook.com/profile.php?id=100014068145250)" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" > </a>
+
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+
+<a href="[https://linkedin.com/in/aaman007](https://www.linkedin.com/in/sabbir-ahmed-613934194/)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
+
+
+<a href=""> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
+
+<a href="[https://www.leetcode.com/aaman007](https://leetcode.com/ador/)" target="_blank"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" > </a>
+
 
 ### About Me 🚀
 <img src="https://www.w3schools.com/html/programming.gif" alt="Computer man" style="width:88px;height:88px;">
