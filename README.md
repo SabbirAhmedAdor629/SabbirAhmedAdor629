@@ -8,16 +8,16 @@
 
 <h2> Profile Links </h2>
 
-<a href="[https://facebook.com/aaman007.r](https://www.facebook.com/profile.php?id=100014068145250)" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" > </a>
+<a href="(https://www.facebook.com/profile.php?id=100014068145250)" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" > </a>
 
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 
-<a href="[https://linkedin.com/in/aaman007](https://www.linkedin.com/in/sabbir-ahmed-613934194/)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
+<a href="(https://www.linkedin.com/in/sabbir-ahmed-613934194/)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
 
 
 <a href=""> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
 
-<a href="[https://www.leetcode.com/aaman007](https://leetcode.com/ador/)" target="_blank"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" > </a>
+<a href="(https://leetcode.com/ador/)" target="_blank"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" > </a>
 
 
 ### About Me 🚀
