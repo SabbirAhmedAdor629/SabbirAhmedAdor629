@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sabbir </h1>
 
-- 🌱 I’m currently learning **Flask, Express and MongoDB**
+- 🌱 I’m currently learning *GoLang, JSON and MongoDB**
 
 - 📫 How to reach me **Sabbirahmedador35@gmail.com**
 
