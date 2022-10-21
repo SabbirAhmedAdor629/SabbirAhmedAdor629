@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sabbir </h1>
 
-- 🌱 I’m currently learning *GoLang **
+- 🌱 I’m currently learning *GoLang POSTGRESQL and DYNAMODB**
 
 - 📫 How to reach me **Sabbirahmedador35@gmail.com**
 
