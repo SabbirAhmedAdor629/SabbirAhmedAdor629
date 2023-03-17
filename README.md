@@ -15,5 +15,5 @@
 
 ### About Me 🚀
 <img src="https://www.w3schools.com/html/programming.gif" alt="Computer man" style="width:88px;height:88px;">
-🎓 I’m a Competitive Programmer & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+🎓 I’m passionate about open source & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
+👨‍💻  I am interested in Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
