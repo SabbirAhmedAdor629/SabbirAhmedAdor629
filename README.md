@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning *GoLang POSTGRESQL and AWS Cloud Computing Services**
 
-- 📫 How to reach me **Sabbirahmedador35@gmail.com**
+- 📫 To reach me **Sabbirahmedador35@gmail.com**
 
 <h2> Profile Links </h2>
 
