@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sabbir Ahmed </h1>
+<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sabbir Ahmed (PHD Candidate) </h1>
 
 - 🌱 Currently learning *GoLang, PostgreSQL, AWS Cloud Computing Services* and exploring **Machine Learning** and **Autonomous Systems**.
 - 🎓 Passionate about **open-source contributions**, **AI**, and **self-driving car technologies**.
